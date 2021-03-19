@@ -17,6 +17,9 @@ This is the core problem studied by compositional generalization.
 ### Table of Content 
 
 ### Seminal Works
+* Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Brenden M. Lake, Marco Baroni. ICML 2018
+
+* A reproduction study of SCAN. Yao Fu. \[[code](https://github.com/FranxYao/SCAN_reproduce)\]
 
 ### Semantic Parsing 
 

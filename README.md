@@ -21,12 +21,14 @@ This is the core problem studied by compositional generalization.
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
 
 ## NLP Side
-### Seminal Works
+
+### Semantic Parsing 
+
 * Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Brenden M. Lake, Marco Baroni. ICML 2018
 
 * A reproduction study of SCAN. Yao Fu. \[[code](https://github.com/FranxYao/SCAN_reproduce)\]
 
-### Semantic Parsing 
+* Improving Text-to-SQL Evaluation Methodology. Catherine Finegan-Dollak, Jonathan K. Kummerfeld, Li Zhang, Karthik Ramanathan, Sesh Sadasivam, Rui Zhang, Dragomir Radev. 
 
 ### Question Answering
 

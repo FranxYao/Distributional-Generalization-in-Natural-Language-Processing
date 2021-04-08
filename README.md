@@ -14,8 +14,13 @@ Yet the variant of human language is at least exponentially large, and potential
 How can we generalize to such large space with such limited observation? 
 This is the core problem studied by compositional generalization. 
 
-### Table of Content 
+## Table of Content 
 
+## Foundamentals
+
+* Statistical Learning Theory. Percy Liang. CS229T Notes.
+
+## NLP Side
 ### Seminal Works
 * Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Brenden M. Lake, Marco Baroni. ICML 2018
 
@@ -27,6 +32,27 @@ This is the core problem studied by compositional generalization.
 
 ### Reading Comprehension 
 
+## ML Side 
+
 ### Neural-Symbolic Machines 
 
-### Machine Learning 
+### Neural Network Learnability
+* Memory-Augmented Recurrent Neural Networks Can Learn Generalized Dyck Languages. Mirac Suzgun, Sebastian Gehrmann, Yonatan Belinkov, Stuart M. Shieber.
+
+* RNNs can generate bounded hierarchical languages with optimal memory. John Hewitt, Michael Hahn, Surya Ganguli, Percy Liang, Christopher D. Manning. EMNLP 2020
+
+* A Formal Hierarchy of RNN Architectures. William Merrill, Gail Weiss, Yoav Goldberg, Roy Schwartz, Noah A. Smith, Eran Yahav. ACL 2020 
+
+* Theoretical Limitations of Self-Attention in Neural Sequence Models. Michael Hahn. TACL 2019
+
+* On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja, Navin Goyal. EMNLP 2020
+
+### Domain Adaptation 
+
+* Understanding Self-Training for Gradual Domain Adaptation. Ananya Kumar, Tengyu Ma, Percy Liang. 
+
+### Invariance 
+
+### Causality
+* A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms. Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal
+

@@ -4,6 +4,8 @@
 
 Compositional Generalization in Natual Language Processing. A Paper List. 
 
+TODO: a fancy cover photo
+
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
 

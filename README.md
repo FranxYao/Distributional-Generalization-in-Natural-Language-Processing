@@ -9,7 +9,7 @@ Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
 If anyone interested in colaborating, please contact me. 
 We aim to use this project to navigate current and future research in this area, similar to the project [DGM4NLP](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing). 
-We do not simply list papers - we aim to build up a knowledge graph/ a roadmap/ or a mind palace that knows what are the works, what is the relations between these works, what we have gone through, where we are, and where we should go. 
+We do not simply list papers - we aim to build up a knowledge graph/ a roadmap/ or a mind palace that knows what are the works, what are the relations between these works, what we have gone through, where we are, and where we should go. 
 
 
 ----

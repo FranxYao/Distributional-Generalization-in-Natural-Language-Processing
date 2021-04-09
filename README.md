@@ -2,11 +2,15 @@
   <img src="doc/title.jpg" width="800" title="title" alt="title">
 </p>
 
-Compositional Generalization in Natual Language Processing. A Paper List. 
+Compositional Generalization in Natual Language Processing. A roadmap. 
 
 TODO: a fancy cover photo
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
+
+If anyone interested in contributing to this project, please contact me. 
+We aim to use this project to navigate current and future research in this area, similar to the project [DGM4NLP](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing)
+We do not simply list papers - we aim to build up a knowledge graph/ a roadmap/ or a mind palace that knows what are the works, what is the relations between these works, what we have gone through, where we are, and where we should go. 
 
 
 ----
@@ -39,6 +43,8 @@ This is the core problem studied by compositional generalization.
 ### Datasets
 
 * Measuring Compositional Generation: A Comprehensive Method on Realistic Data. Daniel Keysers, Nathanael Schärli, Nathan Scales, Hylke Buisman, Daniel Furrer, Sergii Kashubin, Nikola Momchev, Danila Sinopalnikov, Lukasz Stafiniak, Tibor Tihon, Dmitry Tsarkov, Xiao Wang, Marc van Zee, Olivier Bousquet. ICLR 2020
+
+* COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. Najoung Kim, Tal Linzen. EMNLP 2020
 
 ### Data Augmentation 
 * Good-Enough Compositional Data Augmentation. Jacob Andreas. ACL 2020 

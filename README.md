@@ -4,7 +4,6 @@
 
 Compositional Generalization in Natual Language Processing. A roadmap. 
 
-TODO: a fancy cover photo
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
@@ -19,6 +18,8 @@ Although seemingly trivial and being easily used everyday, our observation and k
 Yet the variant of human language is at least exponentially large, and potentially infinite. 
 How can we generalize to such large space with such limited observation? 
 This is the core problem studied by compositional generalization. 
+
+* TODO: more foundations in learning theory; more semantic parsing
 
 ## Table of Content 
 

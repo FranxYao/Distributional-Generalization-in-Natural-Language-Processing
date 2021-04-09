@@ -17,9 +17,20 @@ This is the core problem studied by compositional generalization.
 ### Table of Content 
 
 ### Seminal Works
+
 * Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Brenden M. Lake, Marco Baroni. ICML 2018
 
-* A reproduction study of SCAN. Yao Fu. \[[code](https://github.com/FranxYao/SCAN_reproduce)\]
+* Improving Text-to-SQL Evaluation Methodology. Catherine Finegan-Dollak, Jonathan K. Kummerfeld, Li Zhang, Karthik Ramanathan, Sesh Sadasivam, Rui Zhang, Dragomir R. Radev
+
+
+### Data Augmentation 
+* Good-Enough Compositional Data Augmentation. Jacob Andreas. ACL 2020 
+
+* Sequence-Level Mixed Sample Data Augmentation. Demi Guo, Y. Kim, Alexander M. Rush. EMNLP 2020. 
+
+* Learning to Recombine and Resample Data for Compositional Generalization. Ekin Akyürek, Afra Feyza Akyurek, Jacob Andreas. ICLR 2021 
+
+* Substructure Substitution: Structured Data Augmentation for NLP. Haoyue Shi, Karen Livescu, Kevin Gimpel. 2021 
 
 ### Semantic Parsing 
 
@@ -27,6 +38,19 @@ This is the core problem studied by compositional generalization.
 
 ### Reading Comprehension 
 
+### Papers that solve SCAN
+
+* Learning Compositional Rules via Neural Program Synthesis. Maxwell I. Nye, Armando Solar-Lezama, Joshua B. Tenenbaum, Brenden M. Lake. NeurIPS 2020 
+
+* Compositional Generalization via Neural-Symbolic Stack Machines. Xinyun Chen, Chen Liang, Adams Wei Yu, Dawn Song, Denny Zhou. NeurIPS 2020 
+
+* Compositional Generalization by Learning Analytical Expressions. Qian Liu, Shengnan An, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang. NeurIPS 2020 
+
 ### Neural-Symbolic Machines 
 
 ### Machine Learning 
+
+* Measuring Compositionality in Representation Learning. Jacob Andres. ICLR 2019 
+
+* Systematic Generalization: What Is Required and Can It Be Learned? Dzmitry Bahdanau\*, Shikhar Murty\*, Michael Noukhovitch, Thien Huu Nguyen, Harm de Vries, Aaron Courville. ICLR 2019
+

@@ -66,6 +66,10 @@ This is the core problem studied by compositional generalization.
 
 TBC 
 
+### Adversarial Perturbation
+
+TBC
+
 
 ## ML Side 
 

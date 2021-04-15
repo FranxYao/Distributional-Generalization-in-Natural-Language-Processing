@@ -2,7 +2,7 @@
   <img src="doc/title.jpg" width="800" title="title" alt="title">
 </p>
 
-Compositional Generalization in Natual Language Processing. A roadmap. 
+Semantics and Compositional Generalization in Natual Language Processing. A roadmap. 
 
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk

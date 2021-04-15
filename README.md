@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="doc/title.jpg" width="800" title="title" alt="title">
+  <img src="doc/title.001.png" width="800" title="title" alt="title">
 </p>
 
 Semantics and Compositional Generalization in Natual Language Processing. A roadmap. 
@@ -25,9 +25,17 @@ This is the core problem studied by compositional generalization.
 
 ## Foundamentals
 
+* The Syntactic Process. Mark Steedman. 2000 
+
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
 
-## NLP Side
+## Semantic Parsing
+
+Coarse-to-Fine Decoding for Neural Semantic Parsing. Li Dong and Mirella Lapata. 2018 
+
+Language to Logical Form with Neural Attention. Li Dong and Mirella Lapata. 2016 
+
+## Compositional Generalization, NLP Side
 
 
 ### General 
@@ -76,7 +84,7 @@ TBC
 TBC
 
 
-## ML Side 
+## Compositional Generalization, ML Side 
 
 ### General 
 

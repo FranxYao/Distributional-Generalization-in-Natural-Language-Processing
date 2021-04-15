@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="doc/title.001.png" width="800" title="title" alt="title">
+  <img src="doc/title.jpg" width="800" title="title" alt="title">
 </p>
 
 Semantics and Compositional Generalization in Natual Language Processing. A roadmap. 

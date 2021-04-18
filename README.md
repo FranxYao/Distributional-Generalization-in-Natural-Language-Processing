@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="doc/title.jpg" width="800" title="title" alt="title">
+  <img src="doc/title.002.jpg" width="800" title="title" alt="title">
 </p>
 
 Semantics and Compositional Generalization in Natual Language Processing. A roadmap. 
@@ -29,11 +29,13 @@ This is the core problem studied by compositional generalization.
 
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
 
-## Semantic Parsing
+## Semantic Parsing (Classical)
 
 Coarse-to-Fine Decoding for Neural Semantic Parsing. Li Dong and Mirella Lapata. 2018 
 
 Language to Logical Form with Neural Attention. Li Dong and Mirella Lapata. 2016 
+
+Learning a Neural Semantic Parser from User Feedback. Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Jayant Krishnamurthy, Luke Zettlemoyer. ACL 2017 
 
 ## Compositional Generalization, NLP Side
 
@@ -43,7 +45,7 @@ Language to Logical Form with Neural Attention. Li Dong and Mirella Lapata. 2016
 * Evaluating Models’ Local Decision Boundaries via Contrast Sets. Matt Gardner and others, EMNLP Findings 2020. 
 
 
-### Semantic Parsing 
+### Semantic Parsing (Compositional)
 
 * Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Brenden M. Lake, Marco Baroni. ICML 2018
 

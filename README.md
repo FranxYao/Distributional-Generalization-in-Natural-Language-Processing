@@ -15,10 +15,12 @@ We do not simply list papers - we aim to build up a knowledge graph/ a roadmap/ 
 ----
 
 Although seemingly trivial and being easily used everyday, our observation and knowledge of human language is restricted, biased and ultimately finite. 
-Yet the variant of human language is at least exponentially large, and potentially infinite. 
+Yet the variant of human language is at least combinatorially large, and potentially exponential or even infinite. 
 How can we generalize to such large space with such limited observation? 
 This is the core problem studied by compositional generalization. 
 
+* NOTE: I believe that there exist a span of seemingly different tasks sharing the core problem. These surface problems can be superfically very different from each other and from different fields in NLP, CV, and ML. The underlying core problem is not well-defined, not well-explained, or not even realized. But it is there. 
+* NOTE: I tend to believe the papers in this list more or less touch the same underlying core problem, intentionally or unintentionally. 
 * TODO: more foundations in learning theory; more semantic parsing
 
 ## Table of Content 

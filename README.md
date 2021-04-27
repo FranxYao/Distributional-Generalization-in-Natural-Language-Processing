@@ -25,11 +25,13 @@ This is the core problem studied by compositional generalization.
 
 ## Table of Content 
 
-## Foundamentals
+## Foundations
 
 * The Syntactic Process. Mark Steedman. 2000 
 
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
+
+* Research Vignette: Generalization and Interpolation. Daniel Hsu [[site](https://simons.berkeley.edu/news/research-vignette-generalization-and-interpolation)]
 
 ## Semantic Parsing (Classical)
 
@@ -90,7 +92,7 @@ TBC
 
 ## Compositional Generalization, ML Side 
 
-### General 
+### Compositionality 
 
 * Measuring Compositionality in Representation Learning. Jacob Andres. ICLR 2019 
 
@@ -98,16 +100,10 @@ TBC
 
 * Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases. Yu Gu, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan, Yu Su. WWW 2021
 
+### Learning Theory 
 
-### Architectures 
+* Distributional Generalization: A New Kind of Generalization. Preetum Nakkiran and Yamini Bansal
 
-* Compositional Generalization via Neural-Symbolic Stack Machines. Xinyun Chen, Chen Liang, Adams Wei Yu, Dawn Song, Denny Zhou. NeurIPS 2020 
-
-* Learning Compositional Rules via Neural Program Synthesis. Maxwell I. Nye, Armando Solar-Lezama, Joshua B. Tenenbaum, Brenden M. Lake. NeurIPS 2020 
-
-* Compositional Generalization by Learning Analytical Expressions. Qian Liu, Shengnan An, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang. NeurIPS 2020 
-
-* Towards Complex Programs from Input-Output Examples. Xinyun Chen Chang Liu Dawn Song. ICLR 2018.
 
 ### Neural Network Learnability
 
@@ -120,6 +116,10 @@ TBC
 * Theoretical Limitations of Self-Attention in Neural Sequence Models. Michael Hahn. TACL 2019
 
 * On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja, Navin Goyal. EMNLP 2020
+
+### Distributional Shift 
+
+TBC 
 
 ### Domain Adaptation 
 
@@ -137,5 +137,16 @@ TBC
 
 ### Causality
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms. Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal
+
+
+### Architectures 
+
+* Compositional Generalization via Neural-Symbolic Stack Machines. Xinyun Chen, Chen Liang, Adams Wei Yu, Dawn Song, Denny Zhou. NeurIPS 2020 
+
+* Learning Compositional Rules via Neural Program Synthesis. Maxwell I. Nye, Armando Solar-Lezama, Joshua B. Tenenbaum, Brenden M. Lake. NeurIPS 2020 
+
+* Compositional Generalization by Learning Analytical Expressions. Qian Liu, Shengnan An, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang. NeurIPS 2020 
+
+* Towards Complex Programs from Input-Output Examples. Xinyun Chen Chang Liu Dawn Song. ICLR 2018.
 
 

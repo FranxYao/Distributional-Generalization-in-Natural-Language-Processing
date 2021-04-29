@@ -121,7 +121,7 @@ TBC
 
 TBC 
 
-### Domain Adaptation 
+### Domain Generalization 
 
 * Understanding Self-Training for Gradual Domain Adaptation. Ananya Kumar, Tengyu Ma, Percy Liang. ICML 2020 
 

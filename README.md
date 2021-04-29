@@ -125,7 +125,10 @@ TBC
 
 * Understanding Self-Training for Gradual Domain Adaptation. Ananya Kumar, Tengyu Ma, Percy Liang. ICML 2020 
 
-* On Learning Invariant Representation for Domain Adaptation. Han Zhao, Remi Tachet des Combes, Kun Zhang, Geoffrey J. Gordon. 2019  
+* On Learning Invariant Representation for Domain Adaptation. Han Zhao, Remi Tachet des Combes, Kun Zhang, Geoffrey J. Gordon. 2019 
+
+* In Search of Lost Domain Generalization. Ishaan Gulrajani, David Lopez-Paz. 2020
+
 
 ### Invariance 
 
@@ -134,6 +137,10 @@ TBC
 * The Risks of Invariant Risk Minimization. Elan Rosenfeld, Pradeep Kumar Ravikumar, Andrej Risteski. ICLR 2020 
 
 * Does Invariant Risk Minimization Capture Invariance? Pritish Kamath, Akilesh Tangella, Danica J. Sutherland, Nathan Srebro. AISTATS 2021 
+
+* Environment Inference for Invariant Learning. Elliot Creager, Jörn-Henrik Jacobsen, Richard Zemel. ICML 2021
+
+* Out-of-Distribution Generalization via Risk Extrapolation (REx). David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Dinghuai Zhang, Remi Le Priol, Aaron Courville. 2020
 
 ### Causality
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms. Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal

@@ -25,13 +25,17 @@ This is the core problem studied by compositional generalization.
 
 ## Table of Content 
 
-## Foundamentals
+## Foundations
 
 * The Syntactic Process. Mark Steedman. 2000 
 
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
 
+<<<<<<< HEAD
 * Stanford STATS214 / CS229M: Machine Learning Theory. Tengyu Ma. 
+=======
+* Research Vignette: Generalization and Interpolation. Daniel Hsu [[site](https://simons.berkeley.edu/news/research-vignette-generalization-and-interpolation)]
+>>>>>>> b210f7b54c08e6b7a62b2b462e081d2029cd400f
 
 ## Semantic Parsing (Classical)
 
@@ -92,7 +96,7 @@ TBC
 
 ## Compositional Generalization, ML Side 
 
-### General 
+### Compositionality 
 
 * Measuring Compositionality in Representation Learning. Jacob Andres. ICLR 2019 
 
@@ -100,16 +104,10 @@ TBC
 
 * Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases. Yu Gu, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan, Yu Su. WWW 2021
 
+### Learning Theory 
 
-### Architectures 
+* Distributional Generalization: A New Kind of Generalization. Preetum Nakkiran and Yamini Bansal
 
-* Compositional Generalization via Neural-Symbolic Stack Machines. Xinyun Chen, Chen Liang, Adams Wei Yu, Dawn Song, Denny Zhou. NeurIPS 2020 
-
-* Learning Compositional Rules via Neural Program Synthesis. Maxwell I. Nye, Armando Solar-Lezama, Joshua B. Tenenbaum, Brenden M. Lake. NeurIPS 2020 
-
-* Compositional Generalization by Learning Analytical Expressions. Qian Liu, Shengnan An, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang. NeurIPS 2020 
-
-* Towards Complex Programs from Input-Output Examples. Xinyun Chen Chang Liu Dawn Song. ICLR 2018.
 
 ### Neural Network Learnability
 
@@ -123,17 +121,26 @@ TBC
 
 * On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja, Navin Goyal. EMNLP 2020
 
+
 ### Distributionally Robust Optimization
 
 * Distributionally Robust Language Modeling
  
 * Modeling the Second Player in Distributionally Robust Optimization
 
-### Domain Adaptation 
+### Distributional Shift 
+
+TBC 
+
+### Domain Adaptation & Generalization 
+>>>>>>> b210f7b54c08e6b7a62b2b462e081d2029cd400f
 
 * Understanding Self-Training for Gradual Domain Adaptation. Ananya Kumar, Tengyu Ma, Percy Liang. ICML 2020 
 
-* On Learning Invariant Representation for Domain Adaptation. Han Zhao, Remi Tachet des Combes, Kun Zhang, Geoffrey J. Gordon. 2019  
+* On Learning Invariant Representation for Domain Adaptation. Han Zhao, Remi Tachet des Combes, Kun Zhang, Geoffrey J. Gordon. 2019 
+
+* In Search of Lost Domain Generalization. Ishaan Gulrajani, David Lopez-Paz. 2020
+
 
 ### Invariance 
 
@@ -143,7 +150,21 @@ TBC
 
 * Does Invariant Risk Minimization Capture Invariance? Pritish Kamath, Akilesh Tangella, Danica J. Sutherland, Nathan Srebro. AISTATS 2021 
 
+
 ### Causality
+* Towards Causal Representation Learning. Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, Yoshua Bengio
+
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms. Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal
+
+
+### Architectures 
+
+* Compositional Generalization via Neural-Symbolic Stack Machines. Xinyun Chen, Chen Liang, Adams Wei Yu, Dawn Song, Denny Zhou. NeurIPS 2020 
+
+* Learning Compositional Rules via Neural Program Synthesis. Maxwell I. Nye, Armando Solar-Lezama, Joshua B. Tenenbaum, Brenden M. Lake. NeurIPS 2020 
+
+* Compositional Generalization by Learning Analytical Expressions. Qian Liu, Shengnan An, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang. NeurIPS 2020 
+
+* Towards Complex Programs from Input-Output Examples. Xinyun Chen Chang Liu Dawn Song. ICLR 2018.
 
 

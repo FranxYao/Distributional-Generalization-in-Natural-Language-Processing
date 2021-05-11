@@ -31,6 +31,8 @@ This is the core problem studied by compositional generalization.
 
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
 
+* Stanford STATS214 / CS229M: Machine Learning Theory. Tengyu Ma. 
+
 ## Semantic Parsing (Classical)
 
 Coarse-to-Fine Decoding for Neural Semantic Parsing. Li Dong and Mirella Lapata. 2018 
@@ -120,6 +122,12 @@ TBC
 * Theoretical Limitations of Self-Attention in Neural Sequence Models. Michael Hahn. TACL 2019
 
 * On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja, Navin Goyal. EMNLP 2020
+
+### Distributionally Robust Optimization
+
+* Distributionally Robust Language Modeling
+ 
+* Modeling the Second Player in Distributionally Robust Optimization
 
 ### Domain Adaptation 
 

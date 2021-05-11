@@ -133,7 +133,6 @@ TBC
 TBC 
 
 ### Domain Adaptation & Generalization 
->>>>>>> b210f7b54c08e6b7a62b2b462e081d2029cd400f
 
 * Understanding Self-Training for Gradual Domain Adaptation. Ananya Kumar, Tengyu Ma, Percy Liang. ICML 2020 
 

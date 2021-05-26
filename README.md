@@ -31,11 +31,9 @@ This is the core problem studied by compositional generalization.
 
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
 
-<<<<<<< HEAD
 * Stanford STATS214 / CS229M: Machine Learning Theory. Tengyu Ma. 
-=======
+
 * Research Vignette: Generalization and Interpolation. Daniel Hsu [[site](https://simons.berkeley.edu/news/research-vignette-generalization-and-interpolation)]
->>>>>>> b210f7b54c08e6b7a62b2b462e081d2029cd400f
 
 ## Semantic Parsing (Classical)
 

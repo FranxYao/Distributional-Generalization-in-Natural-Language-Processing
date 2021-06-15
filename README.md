@@ -61,6 +61,8 @@ Learning a Neural Semantic Parser from User Feedback. Srinivasan Iyer, Ioannis K
 
 * Compositional generalization through meta sequence-to-sequence learning. Brenden M. Lake. NeurIPS 2019
 
+* Lexicon Learning for Few-Shot Neural Sequence Modeling. Ekin Akyürek, Jacob Andreas
+
 
 ### Datasets
 

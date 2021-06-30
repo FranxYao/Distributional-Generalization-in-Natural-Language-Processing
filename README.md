@@ -124,11 +124,13 @@ TBC
 
 ### Distributionally Robust Optimization
 
-* Distributionally Robust Language Modeling
- 
-* Modeling the Second Player in Distributionally Robust Optimization
+* Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization. Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang. ICLR 2020
 
-### Distributional Shift 
+* Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang. EMNLP 2019
+ 
+* Modeling the Second Player in Distributionally Robust Optimization. Paul Michel, Tatsunori Hashimoto, Graham Neubig. ICLR 2021
+
+### Distribution Shift
 
 TBC 
 
@@ -143,17 +145,20 @@ TBC
 
 ### Invariance 
 
-* Invariant Risk Minimization. 
+* Invariant Risk Minimization. Martin Arjovsky, Léon Bottou, Ishaan Gulrajani, David Lopez-Paz. 
 
 * The Risks of Invariant Risk Minimization. Elan Rosenfeld, Pradeep Kumar Ravikumar, Andrej Risteski. ICLR 2020 
 
 * Does Invariant Risk Minimization Capture Invariance? Pritish Kamath, Akilesh Tangella, Danica J. Sutherland, Nathan Srebro. AISTATS 2021 
 
+* Iterative Feature Matching: Toward Provable Domain Generalization with Logarithmic Environments. Yining Chen, Elan Rosenfeld, Mark Sellke, Tengyu Ma, Andrej Risteski.
 
 ### Causality
 * Towards Causal Representation Learning. Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, Yoshua Bengio
 
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms. Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal
+
+* Causal Inference using Invariant Prediction: Identification and Confidence Intervals. Jonas Peters, Peter Bühlmann, Nicolai Meinshausen
 
 
 ### Architectures 

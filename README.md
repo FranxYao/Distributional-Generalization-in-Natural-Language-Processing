@@ -63,6 +63,8 @@ Learning a Neural Semantic Parser from User Feedback. Srinivasan Iyer, Ioannis K
 
 * Lexicon Learning for Few-Shot Neural Sequence Modeling. Ekin Akyürek, Jacob Andreas
 
+* Sequence-to-Sequence Learning with Latent Neural Grammars. Yoon Kim
+
 
 ### Datasets
 
@@ -159,6 +161,8 @@ TBC
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms. Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal
 
 * Causal Inference using Invariant Prediction: Identification and Confidence Intervals. Jonas Peters, Peter Bühlmann, Nicolai Meinshausen
+
+* Anchor regression: heterogeneous data meet causality. Dominik Rothenhäusler, Nicolai Meinshausen, Peter Bühlmann, Jonas Peters
 
 
 ### Architectures 

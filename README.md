@@ -87,6 +87,8 @@ Learning a Neural Semantic Parser from User Feedback. Srinivasan Iyer, Ioannis K
 
 * Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets. Patrick Lewis, Pontus Stenetorp, Sebastian Riedel. EACL 2020 
 
+* Learning to Compose Neural Networks for Question Answering. Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein. NAACL 2016
+
 ### Reading Comprehension 
 
 TBC 

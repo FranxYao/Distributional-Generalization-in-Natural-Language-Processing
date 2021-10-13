@@ -171,6 +171,8 @@ TBC
 
 ### Architectures 
 
+* Dynamic Inference with Neural Interpreters. Muhammad Waleed Gondal, Nasim Rahaman, Shruti Joshi, Peter Gehler, Yoshua Bengio†, Francesco Locatello†, Bernhard Schölkopf. NeurIPS 2021
+
 * Compositional Generalization via Neural-Symbolic Stack Machines. Xinyun Chen, Chen Liang, Adams Wei Yu, Dawn Song, Denny Zhou. NeurIPS 2020 
 
 * Learning Compositional Rules via Neural Program Synthesis. Maxwell I. Nye, Armando Solar-Lezama, Joshua B. Tenenbaum, Brenden M. Lake. NeurIPS 2020 

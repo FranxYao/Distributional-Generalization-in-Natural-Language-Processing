@@ -128,15 +128,17 @@ TBC
 
 ### Distributionally Robust Optimization
 
+* Robust Solutions of Optimization Problems Affected by Uncertain Probabilities. Aharon Ben-Tal, Dick den Hertog, Anja De Waegenaere, Bertrand Melenberg, Gijs Rennen. Management Science 2013
+
+* Certifying Some Distributional Robustness with Principled Adversarial Training. Aman Sinha, Hongseok Namkoong, Riccardo Volpi, John Duchi. ICLR 2018
+
+* Does Distributionally Robust Supervised Learning Give Robust Classifiers? Weihua Hu, Gang Niu, Issei Sato, Masashi Sugiyama. ICML 2018 
+
 * Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization. Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang. ICLR 2020
 
 * Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang. EMNLP 2019
  
 * Modeling the Second Player in Distributionally Robust Optimization. Paul Michel, Tatsunori Hashimoto, Graham Neubig. ICLR 2021
-
-### Distribution Shift
-
-TBC 
 
 ### Domain Adaptation & Generalization 
 

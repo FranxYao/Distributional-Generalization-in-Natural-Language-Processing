@@ -142,9 +142,11 @@ TBC
 
 ### Domain Adaptation & Generalization 
 
-* Understanding Self-Training for Gradual Domain Adaptation. Ananya Kumar, Tengyu Ma, Percy Liang. ICML 2020 
+* A Theory of Learning from Different Domains. Shai Ben-David John Blitzer Koby Crammer Alex Kulesza Fernando Pereira Jennifer Vaughan. Machine Learning 2010
 
-* On Learning Invariant Representation for Domain Adaptation. Han Zhao, Remi Tachet des Combes, Kun Zhang, Geoffrey J. Gordon. 2019 
+* Domain-Adversarial Training of Neural Networks. Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo Larochelle, François Laviolette, Mario Marchand, Victor Lempitsky. JMLR 2016
+
+* Adversarial Multiple Source Domain Adaptation. Han Zhao, Shanghang Zhang, Guanhang Wu, José MF Moura, Joao P Costeira, Geoffrey J Gordon. NeurIPS 2018
 
 * In Search of Lost Domain Generalization. Ishaan Gulrajani, David Lopez-Paz. 2020
 

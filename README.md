@@ -1,13 +1,8 @@
-<p align="left">
-  <img src="doc/title.002.jpg" width="800" title="title" alt="title">
-</p>
-
-Semantics and Compositional Generalization in Natual Language Processing. A roadmap. 
+Compositional Generalization in Natual Language Processing. A roadmap. 
 
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
-If anyone interested in colaborating, please contact me. 
 We aim to use this project to navigate current and future research in this area, similar to the project [DGM4NLP](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing). 
 We do not simply list papers - we aim to build up a knowledge graph/ a roadmap/ or a mind palace that knows what are the works, what are the relations between these works, what we have gone through, where we are, and where we should go. 
 
@@ -19,11 +14,10 @@ Yet the variant of human language is at least combinatorially large, and potenti
 How can we generalize to such large space with such limited observation? 
 This is the core problem studied by compositional generalization. 
 
-* NOTE: I believe that there exist a span of seemingly different tasks sharing the core problem. These surface problems can be superfically very different from each other and from different fields in NLP, CV, and ML. The underlying core problem is not well-defined, not well-explained, or not even realized. But it is there. 
+
 * NOTE: I tend to believe the papers in this list more or less touch the same underlying core problem, intentionally or unintentionally. 
 * TODO: more foundations in learning theory; more semantic parsing
 
-## Table of Content 
 
 ## Foundations
 
@@ -35,13 +29,6 @@ This is the core problem studied by compositional generalization.
 
 * Research Vignette: Generalization and Interpolation. Daniel Hsu [[site](https://simons.berkeley.edu/news/research-vignette-generalization-and-interpolation)]
 
-## Semantic Parsing (Classical)
-
-Coarse-to-Fine Decoding for Neural Semantic Parsing. Li Dong and Mirella Lapata. 2018 
-
-Language to Logical Form with Neural Attention. Li Dong and Mirella Lapata. 2016 
-
-Learning a Neural Semantic Parser from User Feedback. Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Jayant Krishnamurthy, Luke Zettlemoyer. ACL 2017 
 
 ## Compositional Generalization, NLP Side
 
@@ -51,7 +38,13 @@ Learning a Neural Semantic Parser from User Feedback. Srinivasan Iyer, Ioannis K
 * Evaluating Models’ Local Decision Boundaries via Contrast Sets. Matt Gardner and others, EMNLP Findings 2020. 
 
 
-### Semantic Parsing (Compositional)
+### Semantic Parsing 
+
+* Coarse-to-Fine Decoding for Neural Semantic Parsing. Li Dong and Mirella Lapata. 2018 
+
+* Language to Logical Form with Neural Attention. Li Dong and Mirella Lapata. 2016 
+
+* Learning a Neural Semantic Parser from User Feedback. Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Jayant Krishnamurthy, Luke Zettlemoyer. ACL 2017 
 
 * Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Brenden M. Lake, Marco Baroni. ICML 2018
 
@@ -100,6 +93,10 @@ TBC
 
 ## Compositional Generalization, ML Side 
 
+### Learning Theory 
+
+* Distributional Generalization: A New Kind of Generalization. Preetum Nakkiran and Yamini Bansal
+
 ### Compositionality 
 
 * Measuring Compositionality in Representation Learning. Jacob Andres. ICLR 2019 
@@ -107,10 +104,6 @@ TBC
 * Systematic Generalization: What Is Required and Can It Be Learned? Dzmitry Bahdanau\*, Shikhar Murty\*, Michael Noukhovitch, Thien Huu Nguyen, Harm de Vries, Aaron Courville. ICLR 2019
 
 * Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases. Yu Gu, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan, Yu Su. WWW 2021
-
-### Learning Theory 
-
-* Distributional Generalization: A New Kind of Generalization. Preetum Nakkiran and Yamini Bansal
 
 
 ### Neural Network Learnability

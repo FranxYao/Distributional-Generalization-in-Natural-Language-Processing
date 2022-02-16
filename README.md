@@ -2,6 +2,7 @@ Compositional Generalization in Natual Language Processing.
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
+\*\* Update: Re-organize all sections
 
 ## Introduction
 
@@ -14,7 +15,7 @@ If not, what is (still) missed?
 These are the problems that we would like to study through the lens of generalization theory. 
 
 
-* Update: Re-organize all sections
+
 
 ## Table of Content 
 

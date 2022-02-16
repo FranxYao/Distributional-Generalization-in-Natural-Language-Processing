@@ -1,3 +1,5 @@
+![title](doc/title.jpg)
+
 Compositional Generalization in Natual Language Processing.
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk

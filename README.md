@@ -58,13 +58,11 @@ These are the problems that we would like to study through the lens of generaliz
 * Research Vignette: Generalization and Interpolation. Daniel Hsu [[site](https://simons.berkeley.edu/news/research-vignette-generalization-and-interpolation)]
 
 
-----
 ## Classical Theory
 
 TBC
 
 
-----
 ## Deep Learning Theory
 
 * A Convergence Theory for Deep Learning via Over-Parameterization. Zeyuan Allen-Zhu, Yuanzhi Li, Zhao Song. 2019
@@ -86,7 +84,6 @@ TBC
 
 
 
-----
 ## Transfer Setting 
 
 * Distributional Generalization: A New Kind of Generalization. Preetum Nakkiran and Yamini Bansal
@@ -131,7 +128,6 @@ TBC
 * Anchor regression: heterogeneous data meet causality. Dominik Rothenhäusler, Nicolai Meinshausen, Peter Bühlmann, Jonas Peters
 
 
-----
 ## Natural Language Processing
 
 ### General 

@@ -21,28 +21,42 @@ These are the problems that we would like to study through the lens of generaliz
 
 ## Table of Content 
 
-* Classical Theory
-  * Small model, i.i.d. data
+| Theory | Models | Data | 
+| ------ | ------ | ---- | 
+| Classical Supervised Learning Theory | Small model (e.g., SVMs) | i.i.d. data | 
+| Deep Supervised Learning Theory | Large model, neural networks | i.i.d. data | 
+| Generalization in Transfer Setting | Large model, neural networks | non-i.i.i. data, structures within data, data distributional shift | 
+| Compositional Generalization in NLP | Even Larger model, pretrained language model | non-i.i.d. data, linguistic structures within data, domain transfer, task transfer, few / zero shot setting | 
+
+
+* Classical Supervised Learning Theory
+  * Small model (e.g., SVMs), i.i.d. data
   * PAC, Rademancher Complexity, VC Dimension
-* Deep Learning Theory 
-  * Large model, i.i.d. data
+* Deep Supervised Learning Theory 
+  * Large model, neural networks, i.i.d. data
   * Over-parameterization, Regularization, Non-convex Optimization, Neural Tangent Kernel
 * Generalization in Transfer Setting 
-  * Large model, non-i.i.d. data
+  * Large model, neural networks, non-i.i.d. data
   * Distribution Shift, Domain Adaptation, Robustness, Invariance
 * Compositional Generalization in NLP 
-  * Large model, non-i.i.d., but with intrinsic structures, data
+  * Even Larger model (pretrained language model), non-i.i.d., but with intrinsic structures, data
   * Semantic Parsing, Question Answering, Language Generation
 * Practical Techniques 
   * Datasets, Data Augmentation, Architecture Design, Distributionally Robust Optimization, .etc.
 
-
 ----
 ## Foundations
+
+### Books 
 
 * The Syntactic Process. Mark Steedman. 2000 
 
 * Statistical Learning Theory. Percy Liang. CS229T Notes.
+
+* Learning Theory from First Principles. Francis Bach
+
+
+### Courses
 
 * Stanford STATS214 / CS229M: Machine Learning Theory. Tengyu Ma. 
 
@@ -51,6 +65,8 @@ These are the problems that we would like to study through the lens of generaliz
 * UCLA CS269 [Foundations of Deep Learning](https://uclaml.github.io/CS269-Spring2021/)
 
 * MIT 6.S088 [Modern Machine Learning: Simple Methods that Work](https://web.mit.edu/modernml/course/)
+
+### Missellence
 
 * Google. [Neural Tangents](https://github.com/google/neural-tangents)
 
@@ -77,7 +93,11 @@ TBC
 TBC
 
 ### Neural Tangent Kernel
-TBC
+
+* Neural Tangent Kernel: Convergence and Generalization in Neural Networks. 
+Arthur Jacot, Franck Gabriel, Cle ́ment Hongler. NeurIPS 2018
+
+* Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent. Jaehoon Lee, Lechao Xiao, Samuel S. Schoenholz, Yasaman Bahri, Roman Novak, Jascha Sohl-Dickstein, Jeffrey Pennington. NeurIPS 2019
 
 ### Mean-Field Analysis 
 TBC

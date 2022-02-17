@@ -66,7 +66,7 @@ These are the problems that we would like to study through the lens of generaliz
 
 * MIT 6.S088 [Modern Machine Learning: Simple Methods that Work](https://web.mit.edu/modernml/course/)
 
-### Missellence
+### Miscellaneous
 
 * Google. [Neural Tangents](https://github.com/google/neural-tangents)
 

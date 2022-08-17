@@ -4,7 +4,7 @@ Compositional Generalization in Natural Language Processing.
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
-\*\* Update: Reasoning with large language models
+\*\* Update: [Reasoning with large language models](#reasoning-with-large-language-models)
 
 ## Introduction
 

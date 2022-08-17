@@ -4,7 +4,7 @@ Compositional Generalization in Natural Language Processing.
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
-\*\* Update: Re-organize all sections
+\*\* Update: Reasoning with large language models
 
 ## Introduction
 
@@ -20,6 +20,45 @@ These are the problems that we would like to study through the lens of generaliz
 
 
 ## Table of Content 
+- [Introduction](#introduction)
+- [Table of Content](#table-of-content)
+- [Development of Theory](#development-of-theory)
+- [Foundations](#foundations)
+  - [Books](#books)
+  - [Courses](#courses)
+  - [Miscellaneous](#miscellaneous)
+- [Classical Theory](#classical-theory)
+- [Deep Learning Theory](#deep-learning-theory)
+  - [Training Dynamics](#training-dynamics)
+  - [Gradient Descent](#gradient-descent)
+  - [Neural Tangent Kernel](#neural-tangent-kernel)
+  - [Mean-Field Analysis](#mean-field-analysis)
+  - [Generalization Bounds](#generalization-bounds)
+- [Reasoning with Large Language Models](#reasoning-with-large-language-models)
+  - [Resources](#resources)
+  - [Chain of Thoughts Series](#chain-of-thoughts-series)
+  - [Scratch pad](#scratch-pad)
+- [Transfer Setting](#transfer-setting)
+  - [Domain Adaptation & Generalization](#domain-adaptation--generalization)
+  - [Compositionality](#compositionality)
+  - [Invariance](#invariance)
+  - [Causality](#causality)
+- [Generalization in Natural Language Processing](#generalization-in-natural-language-processing)
+  - [General](#general)
+  - [Semantic Parsing](#semantic-parsing)
+  - [Datasets](#datasets)
+  - [Question Answering](#question-answering)
+  - [Reading Comprehension](#reading-comprehension)
+  - [Adversarial Perturbation](#adversarial-perturbation)
+  - [NLP Architecture Learnability](#nlp-architecture-learnability)
+- [Optimization](#optimization)
+  - [Distributionally Robust Optimization](#distributionally-robust-optimization)
+  - [Sharpness-aware Minimization](#sharpness-aware-minimization)
+- [Practical Techniques](#practical-techniques)
+  - [Architectures](#architectures)
+  - [Data Augmentation](#data-augmentation)
+
+## Development of Theory 
 
 | Theory | Models | Data | 
 | ------ | ------ | ---- | 
@@ -105,6 +144,43 @@ TBC
 ### Generalization Bounds
 TBC
 
+## Reasoning with Large Language Models 
+
+### Resources 
+* Stanford CS324 - Large Language Models [[link](https://stanford-cs324.github.io/winter2022/)]
+
+* UNC COMP790-101: Large Language Models [[link](https://github.com/craffel/llm-seminar/)]
+
+### Chain of Thoughts Series 
+
+* Chain of Thought Prompting Elicits Reasoning in Large Language Models. 2022 
+  * Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
+  
+* Self-Consistency Improves Chain of Thought Reasoning in Language Models. 2022
+  * Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
+
+* Least-to-Most Prompting Enables Complex Reasoning in Large Language Models. 2022 
+  * Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet, Quoc Le, Ed Chi
+
+* Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning. 2022 
+  * Antonia Creswell, Murray Shanahan, Irina Higgins
+
+* Rationale-Augmented Ensembles in Language Models. 2022
+  * Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou
+
+* Minerva: Solving Quantitative Reasoning Problems with Language Models. 2022 
+  * Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra
+  
+* Large Language Models are Zero-Shot Reasoners. 2022 
+  * Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa
+
+### Scratch pad 
+
+* Notes on Teaching GPT-3 Adding Numbers. 2022 [[link](https://lingo.csail.mit.edu/blog/arithmetic_gpt3/)]
+  * Ekin Akyürek and Afra Feyza Akyürek 
+
+* Show Your Work: Scratchpads for Intermediate Computation with Language Models. 2022
+  * Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena
 
 
 ## Transfer Setting 
@@ -151,7 +227,7 @@ TBC
 * Anchor regression: heterogeneous data meet causality. Dominik Rothenhäusler, Nicolai Meinshausen, Peter Bühlmann, Jonas Peters
 
 
-## Natural Language Processing
+## Generalization in Natural Language Processing
 
 ### General 
 
@@ -214,11 +290,28 @@ TBC
 
 * On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja, Navin Goyal. EMNLP 2020
 
+## Optimization
+
+### Distributionally Robust Optimization
+
+* Robust Solutions of Optimization Problems Affected by Uncertain Probabilities. Aharon Ben-Tal, Dick den Hertog, Anja De Waegenaere, Bertrand Melenberg, Gijs Rennen. Management Science 2013
+
+* Certifying Some Distributional Robustness with Principled Adversarial Training. Aman Sinha, Hongseok Namkoong, Riccardo Volpi, John Duchi. ICLR 2018
+
+* Does Distributionally Robust Supervised Learning Give Robust Classifiers? Weihua Hu, Gang Niu, Issei Sato, Masashi Sugiyama. ICML 2018 
+
+* Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization. Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang. ICLR 2020
+
+* Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang. EMNLP 2019
+ 
+* Modeling the Second Player in Distributionally Robust Optimization. Paul Michel, Tatsunori Hashimoto, Graham Neubig. ICLR 2021
+
+### Sharpness-aware Minimization
+TBC 
 
 
 
 ## Practical Techniques
-
 
 ### Architectures 
 
@@ -245,16 +338,4 @@ TBC
 * Improving Text-to-SQL Evaluation Methodology. Catherine Finegan-Dollak, Jonathan K. Kummerfeld, Li Zhang, Karthik Ramanathan, Sesh Sadasivam, Rui Zhang, Dragomir Radev. ACL 2018 
 
 
-### Distributionally Robust Optimization
 
-* Robust Solutions of Optimization Problems Affected by Uncertain Probabilities. Aharon Ben-Tal, Dick den Hertog, Anja De Waegenaere, Bertrand Melenberg, Gijs Rennen. Management Science 2013
-
-* Certifying Some Distributional Robustness with Principled Adversarial Training. Aman Sinha, Hongseok Namkoong, Riccardo Volpi, John Duchi. ICLR 2018
-
-* Does Distributionally Robust Supervised Learning Give Robust Classifiers? Weihua Hu, Gang Niu, Issei Sato, Masashi Sugiyama. ICML 2018 
-
-* Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization. Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang. ICLR 2020
-
-* Distributionally Robust Language Modeling. Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang. EMNLP 2019
- 
-* Modeling the Second Player in Distributionally Robust Optimization. Paul Michel, Tatsunori Hashimoto, Graham Neubig. ICLR 2021

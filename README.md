@@ -60,12 +60,13 @@ These are the problems that we would like to study through the lens of generaliz
 
 ## Development of Theory 
 
-| Theory | Models | Data | 
-| ------ | ------ | ---- | 
-| Classical Supervised Learning Theory | Small model (e.g., SVMs) | i.i.d. data | 
-| Deep Supervised Learning Theory | Large model, neural networks | i.i.d. data | 
-| Generalization in Transfer Setting | Large model, neural networks | non-i.i.i. data, structures within data, data distributional shift | 
-| Compositional Generalization in NLP | Even Larger model, pretrained language model | non-i.i.d. data, linguistic structures within data, domain transfer, task transfer, few / zero shot setting | 
+| Theory | Model Scale | \#Param | Data | 
+| ------ | ------ | ---- | ---- | 
+| Classical Supervised Learning Theory | Small model (e.g., SVMs) | <1M | i.i.d. data | 
+| Deep Supervised Learning Theory | Small neural networks | < 1M | i.i.d. data | 
+| Generalization in Transfer Setting | Mid neural networks | < 1G | non-i.i.d. data, structures within data, data distributional shift | 
+| Compositional Generalization in NLP | Pretrained language model | < 11G | non-i.i.d. data, linguistic structures within data, domain transfer, task transfer, cross-lingual transfer | 
+| Emergent Abilities in Large Language Models | Largest models so far (GPT-3, PaLM, .etc) | > 100G |  i.i.d. or non-i.i.d., Few-shot in-context learning | 
 
 
 * Classical Supervised Learning Theory
@@ -80,6 +81,8 @@ These are the problems that we would like to study through the lens of generaliz
 * Compositional Generalization in NLP 
   * Even Larger model (pretrained language model), non-i.i.d., but with intrinsic structures, data
   * Semantic Parsing, Question Answering, Language Generation
+* Emergent Abilities in Large Language Models 
+  * Largest models so far (GPT-3, PaLM), few-shots in-context learning, reasoning with rationales
 * Practical Techniques 
   * Datasets, Data Augmentation, Architecture Design, Distributionally Robust Optimization, .etc.
 
@@ -148,8 +151,8 @@ TBC
 
 ### Resources 
 * Stanford CS324 - Large Language Models [[link](https://stanford-cs324.github.io/winter2022/)]
-
-* UNC COMP790-101: Large Language Models [[link](https://github.com/craffel/llm-seminar/)]
+* Princeton COS 597G - Understanding Large Language Models [[link](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)]
+* UNC COMP790-101 - Large Language Models [[link](https://github.com/craffel/llm-seminar/)]
 
 ### Chain of Thoughts Series 
 

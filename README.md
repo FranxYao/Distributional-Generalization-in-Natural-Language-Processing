@@ -1,6 +1,6 @@
 ![title](doc/title.jpg)
 
-Compositional Generalization in Natural Language Processing.
+Distributional Generalization in Natural Language Processing.
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
@@ -14,7 +14,7 @@ How can we generalize to such large space with such limited observation?
 Are the current models capable enough to generalize on unseen linguistic scenarios? 
 If one feed all possible data on the internet to a gigantic language model, can it learn everything of human language? 
 If not, what is (still) missed? 
-These are the problems that we would like to study through the lens of generalization theory. 
+These are the problems that we would like to study through the lens of generalization. 
 
 
 

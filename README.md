@@ -1,6 +1,5 @@
-![title](doc/title.jpg)
 
-Distributional Generalization in Natural Language Processing.
+# Distributional Generalization in Natural Language Processing.
 
 Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 

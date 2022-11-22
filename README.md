@@ -5,7 +5,7 @@ Yao Fu, University of Edinburgh, yao.fu@ed.ac.uk
 
 \*\*Update\*\*: [A Closer Look at Language Model Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f)
 
-\*\* Update: [Reasoning with large language models](#reasoning-with-large-language-models)
+\*\*Update\*\*: [Reasoning with large language models](#reasoning-with-large-language-models)
 
 ## Introduction
 
